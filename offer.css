@@ -1,0 +1,21 @@
+.offerdiv{
+    height: 56px;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.offer{
+    font-family:sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    word-spacing:2px;
+    color: rgb(0, 0, 0) ; 
+   
+}
+.seeoffer{
+    color: rgb(62, 91, 255);
+}
+
+
+    

@@ -1,0 +1,11 @@
+@media (max-width:600px){
+    .header{
+        width: 12vh;
+    }
+    .logodiv{
+        width: 2vh;
+    }
+   .logo{
+    width: 1vh;
+   }
+}
